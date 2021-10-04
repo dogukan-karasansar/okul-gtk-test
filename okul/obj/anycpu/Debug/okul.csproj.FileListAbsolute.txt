@@ -1,0 +1,6 @@
+/Users/dogukankarasansar/projects/okul/okul/bin/Debug/okul.exe
+/Users/dogukankarasansar/projects/okul/okul/bin/Debug/okul.pdb
+/Users/dogukankarasansar/projects/okul/okul/obj/anycpu/Debug/okul.csproj.AssemblyReference.cache
+/Users/dogukankarasansar/projects/okul/okul/obj/anycpu/Debug/okul.csproj.CoreCompileInputs.cache
+/Users/dogukankarasansar/projects/okul/okul/obj/anycpu/Debug/okul.exe
+/Users/dogukankarasansar/projects/okul/okul/obj/anycpu/Debug/okul.pdb

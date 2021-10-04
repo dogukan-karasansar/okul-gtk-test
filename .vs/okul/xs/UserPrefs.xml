@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A066BC8A-61C7-4882-B870-3A5471039A77}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="okul/MainWindow.cs">
+    <Files>
+      <File FileName="okul/MainWindow.cs" Line="17" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="okul" expanded="True">
+            <Node name="okul" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.okul PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
